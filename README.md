@@ -48,7 +48,7 @@ Nous utilisons SemVer pour le versioning. Pour les versions disponibles, voir le
 <br />
 
 ## Auteurs
-- <b>Augustin Ribreau</b> - <i>Developpeur</i> - <a href="https://augustin.ribreau.co/">augustin.ribreau.co</a>.
+- <b>Augustin Ribreau</b> - <i>Developpeur</i> - <a href="https://augustinribreau.com/">augustinribreau.com</a>.
 
 ## License
 - Ce projet est sous licence MIT License - voir le fichier <a href="">LICENSE.md</a> pour plus de détails.
